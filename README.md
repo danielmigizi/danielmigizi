@@ -15,6 +15,13 @@ AI Automation Engineer building practical AI workflows, founder-led products, an
 - **Founder/operator work**: moving quickly from problem discovery to working product.
 - **Applied AI**: voice interfaces, agentic workflows, API integrations, and automation layers that connect real business tools.
 
+## Career snapshot
+
+- AI Product Engineer and full-stack builder working across TypeScript, Next.js, Convex, and AI coding agents.
+- Startup operator background across marketing, operations, customer feedback, and fast product iteration.
+- Nontraditional path through competitive wrestling, coaching, and hands-on business building before moving into software.
+- Focused on AI-native products for creative teams, operators, and businesses that need speed without losing quality or control.
+
 ## Toolkit
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
