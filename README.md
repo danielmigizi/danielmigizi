@@ -17,7 +17,7 @@ AI Automation Engineer building practical AI workflows, founder-led products, an
 
 ## Toolkit
 
-`TypeScript` · `Next.js` · `Convex` · `Google APIs` · `Webflow automation` · `AI assistants` · `voice interfaces` · `workflow systems`
+`TypeScript` · `JavaScript` · `Next.js` · `Codex` · `Claude CLI` · `macOS` · `Web` · `Convex`
 
 ## Activity
 
