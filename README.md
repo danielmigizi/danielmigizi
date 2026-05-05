@@ -15,16 +15,6 @@ AI Automation Engineer building practical AI workflows, founder-led products, an
 - **Founder/operator work**: moving quickly from problem discovery to working product.
 - **Applied AI**: voice interfaces, agentic workflows, API integrations, and automation layers that connect real business tools.
 
-## Selected projects
-
-| Project | What it is | Stack / focus |
-| --- | --- | --- |
-| [image-compression-tool](https://github.com/danielmigizi/image-compression-tool) | Image compression, conversion, and resizing utility with HEIF/HEIC support. | HTML, browser tooling |
-| [voice-portfolio](https://github.com/danielmigizi/voice-portfolio) | KITT-inspired AI voice portfolio with voice commands, animated scanner, and intelligent responses. | Voice UI, AI interface |
-| [google-api-learning-hub](https://github.com/danielmigizi/google-api-learning-hub) | Learning workspace for working with Google APIs. | TypeScript, Google APIs |
-| [convex-nextjs-template](https://github.com/danielmigizi/convex-nextjs-template) | Starter template for Convex and Next.js projects. | TypeScript, Next.js, Convex |
-| [openclaw](https://github.com/danielmigizi/openclaw) | Fork/contribution-style exploration of a personal AI assistant across operating systems and platforms. | TypeScript, AI assistant |
-
 ## Toolkit
 
 `TypeScript` · `Next.js` · `Convex` · `Google APIs` · `Webflow automation` · `AI assistants` · `voice interfaces` · `workflow systems`
