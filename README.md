@@ -1,6 +1,6 @@
 # Daniel Migizi
 
-AI Automation Engineer building practical AI workflows, founder-led products, and sharper tools for teams that want software to do more of the work.
+AI Product Engineer building practical AI workflows, founder-led products, and sharper tools for teams that want software to do more of the work.
 
 [![Animatix](https://img.shields.io/badge/Animatix-www.animatix.ai-111827?style=flat-square)](https://www.animatix.ai/)
 [![GitHub](https://img.shields.io/badge/GitHub-danielmigizi-181717?style=flat-square&logo=github)](https://github.com/danielmigizi)
