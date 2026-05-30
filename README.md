@@ -1,4 +1,4 @@
-# Daniel Migizi
+# Migizi
 
 AI Product Engineer building practical AI workflows, founder-led products, and sharper tools for teams that want software to do more of the work.
 
